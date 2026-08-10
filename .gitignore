@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Data
+data/*.csv
+data/*.zip
+
+# Generated outputs
+outputs/figures/*
+outputs/forecasts/*
