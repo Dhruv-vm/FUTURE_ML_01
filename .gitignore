@@ -24,3 +24,5 @@ data/*.zip
 # Generated outputs
 outputs/figures/*
 outputs/forecasts/*
+data/*.csv
+data/*.zip
